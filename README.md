@@ -3,4 +3,4 @@
 X=7
 X=5
 addup=x+z
-input(addup)
+print("addup")
